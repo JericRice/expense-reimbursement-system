@@ -1,0 +1,19 @@
+
+.pending-status{
+    color: rgb(21, 98, 215);
+    font-weight: bold;
+}
+
+.approved-status{
+    color: rgb(22, 199, 45);
+    font-weight: bold;
+}
+
+.denied-status{
+    color: rgb(199, 22, 22);
+    font-weight: bold;
+}
+
+i:hover{
+    cursor: pointer;
+}

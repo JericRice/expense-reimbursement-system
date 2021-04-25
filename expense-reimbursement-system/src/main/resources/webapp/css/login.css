@@ -1,0 +1,14 @@
+.login-form{
+    padding: 20px;
+    border-radius: 8px;
+    /* color: white; */
+    background-color: #dedede;
+}
+
+.container{
+    padding: 50px;
+}
+
+#placeholder{
+    height: 57.6px;
+}

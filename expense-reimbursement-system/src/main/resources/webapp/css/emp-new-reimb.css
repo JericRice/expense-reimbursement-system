@@ -1,0 +1,12 @@
+.container {
+    align-content: center;
+    max-height: 70%;
+}
+.create-reimb-form{
+    background-color: #76ca7a;
+
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 50%;
+    align: center;
+}

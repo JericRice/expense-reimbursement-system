@@ -1,0 +1,30 @@
+table{
+    background-color: rgb(66, 193, 183);
+}
+
+.table-header{
+    background-color: red;
+}
+
+.pending-status{
+    color: rgb(4, 76, 199);
+    font-weight: bold;
+}
+
+.approved-status{
+    color: rgb(22, 199, 45);
+    font-weight: bold;
+}
+
+.denied-status{
+    color: rgb(199, 22, 22);
+    font-weight: bold;
+}
+
+.create-reimb-btn{
+    margin-bottom: 10px;
+}
+
+i:hover{
+    cursor: pointer;
+}
